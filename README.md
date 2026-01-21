@@ -5,9 +5,10 @@ I enjoy creating a variety of different project types to keep things interesting
 I'm currently Studying BSc Computer Games Development at GCU
 
 My Portfolio
-UNDER CONSTRUCTION
+- UNDER CONSTRUCTION
 
 MY Skills!
-[![My Skills](https://skillicons.dev/icons?cs, cpp, unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?cs,cpp,unity)](https://skillicons.dev)
+
 
 
