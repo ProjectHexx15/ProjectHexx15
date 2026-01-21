@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, my name is Amie!!
+Im a Game Developer, Designer and Artist who is looking to branch into more sections of development!
+I enjoy creating a variety of different project types to keep things interesting!!
 
-<!--
-**ProjectHexx15/ProjectHexx15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently Studying BSc Computer Games Development at GCU
 
-Here are some ideas to get you started:
+My Portfolio
+UNDER CONSTRUCTION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MY Skills!
+[![My Skills](https://skillicons.dev/icons?cs, cpp, unity)](https://skillicons.dev)
+
+
