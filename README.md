@@ -8,7 +8,13 @@ My Portfolio
 - UNDER CONSTRUCTION
 
 MY Skills!
-[![My Skills](https://skillicons.dev/icons?cs,cpp,unity)](https://skillicons.dev)
-
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt"C++" width"45" height"45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt"C# width"45" height"45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt"Unity" width"45" height"45" />
+          
+          
+          
+  
+</p>
 
