@@ -1,7 +1,8 @@
 Hi, my name is Amie!!
 Im a Game Programmer, Designer and Artist who is looking to branch into more sections of development!
 
-I'm currently Studying BSc(hons) Computer Games Development at GCU
+I'm currently Studying BSc (Hons) Games Development!
+
 
 My Skills:
 <p>
